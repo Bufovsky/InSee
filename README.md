@@ -17,3 +17,4 @@ php index.php /SERVICE/ /USER/ /REPOSITORY/ /BRANCH/
 
 ## Przykład użycia
 php index.php git Bufovsky InSee master
+
