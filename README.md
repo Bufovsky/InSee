@@ -8,8 +8,11 @@ Uruchamiany z poziomu konsoli w głównym folderze.
 php index.php /SERVICE/ /USER/ /REPOSITORY/ /BRANCH/
 
 /SERVICE/ = Serwis z którego chcemy wyciągnąć commit
+
 /GITUSER/ = Użytkownik z którego chcemy wyciągnąć commit
+
 /REPOSITORY/ = Repozytorium z którego chcemy wyciągnąć commit
+
 /BRANCH/ = Branch z którego chcemy wyciągnąć commit
 
 ## Przykład użycia
